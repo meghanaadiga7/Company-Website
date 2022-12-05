@@ -1,2 +1,2 @@
-# company
+# Company
 Webpage for a Company
