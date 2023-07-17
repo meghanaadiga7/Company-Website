@@ -1,4 +1,4 @@
-Static Company Website
+#Static Company Website
 
 This is a static website which serves as a template for a company and is built using HTML,Bootstrap and CSS.
 
