@@ -1,7 +1,9 @@
 # Static Company Website
 
+# Description
 This is a static website which serves as a template for a company and is built using HTML,Bootstrap and CSS.
 
+# Screenshots
 # 1
 <img width="1440" alt="Screenshot 2023-07-17 at 8 15 38 PM" src="https://github.com/meghanaadiga7/Company-Website/assets/106051990/d01d2b57-2a40-4a86-bac7-897a24ea086c">
 
